@@ -20,8 +20,8 @@ def bonus
    }
   }
 
-
-
+epic_tragedy[:montague][:hero][:status]
+epic_tragedy[:capulet][:hero][:status]
   
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
